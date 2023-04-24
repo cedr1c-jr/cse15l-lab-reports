@@ -3,12 +3,12 @@
 **Part 1**
 
 Here is a screenshot of my code for StringServer.
-![Image](StringServerCode)
+![Image](StringServerCode.png)
 I only used one method to make StringServer, which is the handleRequest method. The handleRequest method is able to take a string and print it. The argument for this method is the url. It takes the url and splits it, making sure it turns the query into a string. It then adds that string to a string variable which keeps track of all the strings. I'm not sure what the last question is asking but I looked to the NumberServer file to help me write the code for this one. Just changing the counter which keeps track of an integer to a string.
 
 Here are two examples of the StringServer running. As you can see Michael Jackson's Speed Demon was playing while I was testing the server.
-![Image](StringServer)
-![Image](StringServer2)
+![Image](StringServer.png)
+![Image](StringServer2.png)
 
 **Part 2**
 
@@ -35,7 +35,7 @@ The following JUnit Test does not cause a failure.
     }
     
 The following screenshot is the two tests being run on the original method.
-![Image](ReverseTest)
+![Image](ReverseTest.png)
 
 Here are the changes made to the method to fix the bug.
 
