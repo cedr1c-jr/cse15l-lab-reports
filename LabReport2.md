@@ -4,7 +4,7 @@
 
 Here is a screenshot of my code for StringServer.
 ![Image](StringServerCode.png)
-I only used one method to make StringServer, which is the handleRequest method. The handleRequest method is able to take a string and print it. The argument for this method is the url. It takes the url and splits it, making sure it turns the query into a string. It then adds that string to a string variable which keeps track of all the strings. I'm not sure what the last question is asking but I looked to the NumberServer file to help me write the code for this one. Just changing the counter which keeps track of an integer to a string.
+I only used one method to make StringServer, which is the handleRequest method. The handleRequest method is able to take a string and print it. The argument for this method is the url. It takes the url and splits it, making sure it turns the query into a string. It then adds that string to a string variable which keeps track of all the strings. The "newMessage" variable stores the new message fro the query. It will completely change for each query. The "result" variable is a running record off all the messages added to the server. Each query will add the string for "newMessage" to "result". Just changing the counter which keeps track of an integer to a string.
 
 Here are two examples of the StringServer running. As you can see Michael Jackson's Speed Demon was playing while I was testing the server.
 ![Image](StringServer.png)
