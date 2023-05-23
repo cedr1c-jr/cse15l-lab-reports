@@ -35,7 +35,9 @@ cloned correctly.
 **Key Presses**
 
     cd lab7
+    <ENTER>
     bash test.sh
+    <ENTER>
     
 The first command changes the working directory to lab7. This was we can access the files inside lab7 easier.
 The second command runs the tests using the shell file test.sh which contains:
@@ -51,6 +53,7 @@ The second command runs the tests using the shell file test.sh which contains:
 **Key Presses**
 
     vim ListExamples.java
+    <ENTER>
     
 This command opens the file in our terminal allowing us to edit it. 
 
@@ -61,7 +64,7 @@ This command opens the file in our terminal allowing us to edit it.
     2
     <CTRL + C>
     <CTRL + C>
-    :wq
+    :wq <ENTER>
     
 We got a few command to go through here so I will be referring to them as commands 1-8 to better associate the
 explanations with the commands.
@@ -85,6 +88,7 @@ Command 8: The last command. Saves the changes to the file and exits the vim edi
 **Key Presses**
 
     bash test.sh
+    <ENTER>
     
 Same as in step 3.
 
@@ -96,8 +100,11 @@ Same as in step 3.
 **Key Presses**
   
     git add ListExamples.java
+    <ENTER>
     git commit -am "Done"
+    <ENTER>
     git push
+    <ENTER>
     
 The first command adds the ListExamples.java file to be included in the next commit. Doesn't make any changes to the repository though.
 The second command actaully makes changes to provides the commit message.
