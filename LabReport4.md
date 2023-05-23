@@ -2,7 +2,7 @@
 
 **Step 1: Logging in to the remote server**
 
-![Image](RemoteLogin)
+![Image](RemoteLogin.png)
 
 **Key Presses**
 
@@ -13,7 +13,7 @@ This command logs me into my account on the remote server.
 
 **Step 2**
 
-![Image](CloneRepo)
+![Image](CloneRepo.png)
 
 **Key Presses**
 
@@ -30,7 +30,7 @@ cloned correctly.
 
 **Step 3**
 
-![Image](RunTests)
+![Image](RunTests.png)
 
 **Key Presses**
 
@@ -45,8 +45,8 @@ The second command runs the tests using the shell file test.sh which contains:
     
 **Step 4**
 
-![Image](VimCommand)
-![Image](FixedFile)
+![Image](VimCommand.png)
+![Image](FixedFile.png)
 
 **Key Presses**
 
@@ -80,7 +80,7 @@ Command 8: The last command. Saves the changes to the file and exits the vim edi
   
 **Step 5**
 
-![Image](TestsPassed)
+![Image](TestsPassed.png)
 
 **Key Presses**
 
@@ -90,8 +90,8 @@ Same as in step 3.
 
 **Step 6**
 
-![Image](GitPush)
-![Image](ChangedRepo)
+![Image](GitPush.png)
+![Image](ChangedRepo.png)
 
 **Key Presses**
   
