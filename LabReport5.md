@@ -41,3 +41,5 @@ Here is the command line that triggered the bug.
 To fix the bug, all that was needed was to replace the semicolons in lines 28 and 34 with colons.
 
 **Part 2**
+I think the coolest thing I learned from the second half of this quarter was how to use github to use and edit other people's code.
+Before I started this class I always thought using GitHub was kind of scary. I didn't know what it was and I was hesitant to setup and account. But after learning how to use it and GitHub desktop I see how useful it is and how it's not really all that scary.
