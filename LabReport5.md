@@ -14,7 +14,7 @@ Screenshots are great, copy-pasted terminal output is also great. Avoid saying â
 I'm getting a really big error that brings up a whole manual with options. When I try and compile and run the tester with JUnit it says "Permission denied".
 I'm using the repository that should have no errors so I don't know why it's failing. It works when other people on different machines run it but not mine.
 ![Image](TerminalError.png)
-![Image](GraderCode.png)
+![Image](GraderError.png)
 
 **Detail the failure-inducing input and context.
 That might mean any or all of the command you're running, a test case, command-line arguments, working directory, even the last few commands you ran.
