@@ -13,7 +13,9 @@ Screenshots are great, copy-pasted terminal output is also great. Avoid saying â
 
 I'm getting a really big error that brings up a whole manual with options. When I try and compile and run the tester with JUnit it says "Permission denied".
 I'm using the repository that should have no errors so I don't know why it's failing. It works when other people on different machines run it but not mine.
+
 ![Image](TerminalError.png)
+
 ![Image](GraderError.png)
 
 **Detail the failure-inducing input and context.
@@ -33,7 +35,9 @@ It looks like you're using Windows syntax in your JUnit commands. Try changing t
 
 This example uses the grade.sh and list-examples-grader repository from earlier labs.
 Here is the file structure when the bug was triggered.
+
 ![Image](FileStructure.png)
+
 Here is the command line that triggered the bug.
 
     bash grade.sh https://github.com/ucsd-cse15l-f22/list-methods-corrected
