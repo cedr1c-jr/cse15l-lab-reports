@@ -36,7 +36,7 @@ It looks like you're using Windows syntax in your JUnit commands. Try changing t
 This example uses the grade.sh and list-examples-grader repository from earlier labs.
 Here is the file structure when the bug was triggered.
 
-![Image](FileStructue.png)
+![Image](FileStructure.png)
 
 Here is the command line that triggered the bug.
 
