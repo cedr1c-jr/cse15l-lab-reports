@@ -38,6 +38,14 @@ Here is the file structure when the bug was triggered.
 
 ![Image](FileStructure.png)
 
+
+
+
+
+
+
+
+
 Here is the command line that triggered the bug.
 
     bash grade.sh https://github.com/ucsd-cse15l-f22/list-methods-corrected
